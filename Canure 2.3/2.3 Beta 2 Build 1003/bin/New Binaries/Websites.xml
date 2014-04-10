@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebSites>
+  <WebSite>
+    <Name>Google</Name>
+    <URL>http://www.google.co.in/</URL>
+  </WebSite>
+  <WebSite>
+    <Name>Canure | Download Canure software for free at SourceForge.net</Name>
+    <URL>http://sourceforge.net/projects/canure/</URL>
+  </WebSite>
+  <WebSite>
+    <Name>The HTML5 test - How well does your browser support HTML5?</Name>
+    <URL>http://html5test.com/</URL>
+  </WebSite>
+</WebSites>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebSites>
+  <WebSite>
+    <Name>Canure - Startup Page</Name>
+    <URL>http://www.blixos.com/canurestart/</URL>
+  </WebSite>
+  <WebSite>
+    <Name>Apple - Google Search</Name>
+    <URL>http://www.google.com/search?q=Apple</URL>
+  </WebSite>
+  <WebSite>
+    <Name>orkut - login</Name>
+    <URL>https://www.google.com/accounts/ServiceLogin?service=orkut&amp;hl=en-US&amp;rm=false&amp;continue=http://www.orkut.com/RedirLogin?msg%3D0%26page%3Dhttp://www.orkut.co.in/Home&amp;cd=IN&amp;passive=true&amp;skipvpage=true&amp;sendvemail=false</URL>
+  </WebSite>
+</WebSites>
